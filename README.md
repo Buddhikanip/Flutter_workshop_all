@@ -127,12 +127,12 @@ flutter pub get
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Buddhikanip/Flutter_workshop_all" />
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Buddhikanip/RegX-DSA-III" />
     </a>
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Buddhikanip/Flutter_workshop_all?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/Buddhikanip/RegX-DSA-III?color=0088ff" />
     </a>
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Buddhikanip/Flutter_workshop_all?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Buddhikanip/RegX-DSA-III?color=0088ff" />
     </a>
   </p>
