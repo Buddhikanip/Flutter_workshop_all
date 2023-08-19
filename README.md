@@ -36,7 +36,7 @@ cd Flutter_workshop_all
 
 <br>
 
-3. Start Server Software: Make sure your WAMP or XAMPP server is up and running. This will ensure the backend PHP scripts can be executed.
+3. Start Server Software: Make sure your WAMP or XAMPP server is up and running. This will ensure that the backend PHP scripts can be executed.
 
 <br>
 
@@ -102,11 +102,22 @@ flutter pub get
 3. Select Virtual Device or Connect Device:
 > In Android Studio's toolbar, you will find a dropdown menu labeled `Select Device` or `Connected Devices`. From this menu, you can either choose a virtual device (emulator) or connect your physical mobile device to your computer.
 
-4. Navigate to main.dart:
-> Once the app is launched on the selected device, open the project's lib folder and locate the main.dart file. This file is the entry point of the app's codebase.
-
-5. Explore the App:
+4. Explore the App:
 > You can now explore the app's features by interacting with the user interface on the virtual device or your connected mobile device.
+
+<br>
+
+- We have inserted some dummy data into the database, you can test the app using them.
+> Use : `b@b.com` as the Email and `123` as the Password to sign in to test.<br>
+> Use : `d@d.com` as the Email and `123` as the Password to sign in to test.
+
+- Else you can signup through the app and use your own credentials to test.
+
+<br>
+
+*If any of the lines `132` `144` `156` `168` in the [Frontend/lib/Utils/suggestionConstantBox.dart](https://github.com/Buddhikanip/Flutter_workshop_all/blob/master/Frontend/lib/Utils/suggestionConstantBox.dart) give you an error saying that SDK version is old, comment those lines and restart your application.
+
+<br>
 
 <p align="center">
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all">
