@@ -86,7 +86,8 @@ ip a
 > Launch Android Studio and open the `Frontend` Application project.
 
 2. Configure Dependencies:
-> In the project explorer, locate and open the [pubspec.yaml](https://github.com/Buddhikanip/Flutter_workshop_all/blob/master/Frontend/pubspec.yaml) file. This file contains the list of dependencies for the app.
+> In the project explorer, locate and open the [pubspec.yaml](https://github.com/Buddhikanip/Flutter_workshop_all/blob/master/Frontend/pubspec.yaml) file. This file contains the list of dependencies for the app. <br>
+> Open your Android Studio terminal and run `flutter pub get`
 
 ```bash
 flutter pub get
