@@ -88,6 +88,10 @@ ip a
 2. Configure Dependencies:
 > In the project explorer, locate and open the [pubspec.yaml](https://github.com/Buddhikanip/Flutter_workshop_all/blob/master/Frontend/pubspec.yaml) file. This file contains the list of dependencies for the app.
 
+```bash
+flutter pub get
+```
+
 3. Select Virtual Device or Connect Device:
 > In Android Studio's toolbar, you will find a dropdown menu labeled `Select Device` or `Connected Devices`. From this menu, you can either choose a virtual device (emulator) or connect your physical mobile device to your computer.
 
