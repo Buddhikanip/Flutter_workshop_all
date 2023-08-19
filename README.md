@@ -1,6 +1,6 @@
 # Flutter_workshop_all
 
-As a part of the FlutterX Workshop Series organized by the UCSC IEEE Student Branch, we've built a unique travel guide application. This is a simple and user-friendly app, that functions as a travel guide which is designed to help you explore new places. 
+As a part of the FlutterX Workshop Series organized by the IEEE Computer Society Student Branch Chapter of UCSC, we've built a unique travel guide application. This is a simple and user-friendly app, that functions as a travel guide which is designed to help you explore new places. 
 
 ## Technologies used
 
@@ -8,11 +8,15 @@ As a part of the FlutterX Workshop Series organized by the UCSC IEEE Student Bra
 > Flutter is a framework that uses Dart as its programming language to create cross-platform applications with a focus on providing a rich and customizable user interface.
 - Backend – PHP 
 - Database – MYSQL
+  
+<br>
 
 ### Requirements
 
 - [Android Studio](https://developer.android.com/studio)
 - Server Software - [XAMPP](https://www.apachefriends.org/download.html)/ [WampServer](https://www.wampserver.com/en/download-wampserver-64bits/)/ [MAMP](https://www.mamp.info/en/downloads/)
+
+<br>
 
 ### Local development
 
@@ -33,6 +37,8 @@ cd Flutter_workshop_all
 <br>
 
 3. Start Server Software: Make sure your WAMP or XAMPP server is up and running. This will ensure the backend PHP scripts can be executed.
+
+<br>
 
 ### Configure API Connection
 
@@ -78,7 +84,7 @@ ip a
 
 <br>
 
-5.	Copy the discovered IPV4 address and replace the in the [api_connection.dart](https://github.com/Buddhikanip/Flutter_workshop_all/blob/master/Frontend/lib/API_connection/API_connection.dart) file with it.
+#### Copy the discovered IPV4 address and replace the in the [api_connection.dart](https://github.com/Buddhikanip/Flutter_workshop_all/blob/master/Frontend/lib/API_connection/API_connection.dart) file with it.
 
 ### How to run
 
@@ -109,13 +115,13 @@ flutter pub get
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/Buddhikanip/RegX-DSA-III/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Buddhikanip/RegX-DSA-III" />
+    <a href="https://github.com/Buddhikanip/Flutter_workshop_all/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Buddhikanip/Flutter_workshop_all" />
     </a>
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Buddhikanip/RegX-DSA-III?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/Buddhikanip/Flutter_workshop_all?color=0088ff" />
     </a>
     <a href="https://github.com/Buddhikanip/Flutter_workshop_all/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Buddhikanip/RegX-DSA-III?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Buddhikanip/Flutter_workshop_all?color=0088ff" />
     </a>
   </p>
